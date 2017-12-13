@@ -37,6 +37,7 @@ a:hover {
 }
 
 main {
+  text-align: center;  
   width: 850px;
   margin: 35px auto;
 }
